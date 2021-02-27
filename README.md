@@ -6,7 +6,7 @@
 📚‣Learning C  
 💻‣2021 Goals: Contribute to Open-Source Projects  
 🍟‣Fun Fact: I'm a Foodie!  
-<br />
+
 ### Tools and Languages
 [<img align="left" alt="whitehat" width="40px" src="icons/whitehat.jpg" />][a]
 [<img align="left" alt="linux" width="40px" src="icons/linux.svg" />][a]
@@ -18,8 +18,7 @@
 [<img align="left" alt="docker" width="40px" src="icons/docker.svg" />][a]
 [<img align="left" alt="c" width="40px" src="icons/c.svg" />][a]
 [<img align="left" alt="java" width="40px" src="icons/java.svg" />][a]
-<br />
-<br />
+
 ### Get in touch
 [<img align="left" alt="mail" width="40px" src="icons/mail.png" />][m]
 [<img align="left" alt="ig" width="40px" src="icons/ig.png" />][i]
