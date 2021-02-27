@@ -3,7 +3,7 @@
 ## Ethical Hacker, Linux Master, Pythonista
 
 👦‣14 year old from India  
-📚‣Learning C  
+📚‣Currently learning C  
 💻‣2021 Goals: Contribute to Open-Source Projects  
 🍟‣Fun Fact: I'm a Foodie!  
 <br />
