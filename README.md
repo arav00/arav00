@@ -1,10 +1,12 @@
 
 # print("Hello World!")
 ## Ethical Hacker, Linux Master, Pythonista
+'''
 👦‣14 year old from India  
 📚‣Learning C  
 💻‣2021 Goals: Contribute to Open-Source Projects  
 🍟‣Fun Fact: I'm a Foodie!  
+'''
 <br />
 ### Tools and Languages
 [<img align="left" alt="whitehat" width="40px" src="icons/whitehat.jpg" />][a]
