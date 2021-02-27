@@ -18,8 +18,7 @@
 [<img align="left" alt="docker" width="40px" src="icons/docker.svg" />][a]
 [<img align="left" alt="c" width="40px" src="icons/c.svg" />][a]
 [<img align="left" alt="java" width="40px" src="icons/java.svg" />][a]
----
-### Contact Me
+
 
 
 [a]:#
