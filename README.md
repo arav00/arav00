@@ -7,7 +7,7 @@
 💻‣2021 Goals: Contribute to Open-Source Projects  
 🍟‣Fun Fact: I'm a Foodie!  
 <br />
-### Tools and Languages
+### Skills
 [<img align="left" alt="whitehat" width="40px" src="icons/whitehat.jpg" />][a]
 [<img align="left" alt="linux" width="40px" src="icons/linux.svg" />][a]
 [<img align="left" alt="python" width="40px" src="icons/python.svg" />][a]
