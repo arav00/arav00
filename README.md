@@ -21,6 +21,8 @@
 <br />
 <br />
 <br />
+### Github Stats
+<img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 ### Get in touch
 [<img align="left" alt="mail" width="40px" src="icons/mail.png" />][m]
 [<img align="left" alt="ig" width="40px" src="icons/ig.png" />][i]
