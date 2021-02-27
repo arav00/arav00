@@ -27,8 +27,9 @@
 <br />
 <br />
 ### Get in touch
-[<img align="left" alt="mail" width="40px" src="icons/mail.png" />][mail]
-[<img align="left" alt="ig" width="40px" src="icons/ig.png" />][ig]
+
+<a href="mailto:aravbudhiraja2@gmail.com"><img src="icons/mail.png" ></a>
+<a href="https://instagram.com/arav.06"><img src="icons/ig.png" ></a>
 
 <br />
 <br />
@@ -40,6 +41,4 @@
 ***
 
 [a]:#
-[ig]: https://instagram.com/arav.06
-[mail]: mailto:aravbudhiraja2@gmail.com
 
