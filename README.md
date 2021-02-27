@@ -18,11 +18,12 @@
 [<img align="left" alt="docker" width="40px" src="icons/docker.svg" />][a]
 [<img align="left" alt="c" width="40px" src="icons/c.svg" />][a]
 [<img align="left" alt="java" width="40px" src="icons/java.svg" />][a]
-<br />
-<br />
-<br />
+
 ### Github Stats
-<img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arav00&show_icons=true&hide_border=true" />
+<br />
+<br />
+<br />
 ### Get in touch
 [<img align="left" alt="mail" width="40px" src="icons/mail.png" />][m]
 [<img align="left" alt="ig" width="40px" src="icons/ig.png" />][i]
