@@ -36,5 +36,5 @@
 
 [a]:#
 [ig]: https://instagram.com/arav.06
-[mail]: mailto:aravbudhiraja2@gmail.com
+[mail]: aravbudhiraja2@gmail.com
 
