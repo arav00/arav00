@@ -20,5 +20,6 @@
 [<img align="left" alt="java" width="40px" src="icons/java.svg" />][a]
 ---
 ### Contact Me
-<a href="https://google.com">hello</a>
+
+
 [a]:#
