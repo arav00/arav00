@@ -23,7 +23,8 @@
 <br />
 ### Get in touch
 [<img align="left" alt="mail" width="40px" src="icons/mail.png" />][m]
-[<img align="left" alt="ig" width="40px" src="icons/ig.png" />][i]
+[![email][1]][2]
+
 <br />
 <br />
 <br />
@@ -31,6 +32,7 @@
 <img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arav00&show_icons=true&hide_border=true" />
 
 [a]:#
-[m]:"mailto:aravbudhiraja2@gmail.com"
+[m]:
 [i]:https://instagram.com/arav.06
-
+[1]: icons/mail.png
+[2]: "mailto:aravbudhiraja2@gmail.com"
