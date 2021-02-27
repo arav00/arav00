@@ -23,7 +23,6 @@
 <br />
 ### Get in touch
 [<img align="left" alt="mail" width="40px" src="icons/mail.png" />][mail]
-<br />
 [<img align="left" alt="ig" width="40px" src="icons/ig.png" />][ig]
 
 <br />
