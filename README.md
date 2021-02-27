@@ -22,6 +22,11 @@
 <br />
 <br />
 <br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav00&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 ### Get in touch
@@ -33,10 +38,10 @@
 <br />
 
 ### Github Stats
-<img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arav00&show_icons=true&hide_border=true" />
+<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=arav00&show_icons=true&hide_border=true" />
 
 
 [a]:#
 [ig]: https://instagram.com/arav.06
-[mail]: aravbudhiraja2@gmail.com
+[mail]: mailto:aravbudhiraja2@gmail.com
 
