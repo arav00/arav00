@@ -19,6 +19,7 @@
 [<img align="left" alt="c" width="40px" src="icons/c.svg" />][a]
 [<img align="left" alt="java" width="40px" src="icons/java.svg" />][a]
 <br />
+<br />
 ### Get in touch
 [<img align="left" alt="mail" width="40px" src="icons/mail.png" />][m]
 [<img align="left" alt="ig" width="40px" src="icons/ig.png" />][i]
