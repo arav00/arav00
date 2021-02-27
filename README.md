@@ -31,5 +31,5 @@
 <img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arav00&show_icons=true&hide_border=true" />
 
 [a]:#
-[m]:mailto:aravbudhiraja2@gmail.com
+[m]:"mailto:aravbudhiraja2@gmail.com"
 [i]:https://instagram.com/arav.06
