@@ -22,7 +22,7 @@
 ### Get in touch
 [<img align="left" alt="mail" width="40px" src="icons/mail.png" />][m]
 [<img align="left" alt="ig" width="40px" src="icons/ig.png" />][i]
-<br />
+
 [a]:#
 [m]:"mailto:aravbudhiraja2@gmail.com"
 [i]:"https://instagram.com/arav.06"
