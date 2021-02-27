@@ -2,7 +2,6 @@
 # print("Hello World!")
 ## Ethical Hacker, Linux Master, Pythonista
 
-<div align="center">
 👦‣14 year old from India  
 📚‣Currently learning C  
 💻‣2021 Goals: Contribute to Open-Source Projects  
@@ -39,7 +38,6 @@
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=arav00&show_icons=true&hide_border=true" />
 
 ***
-</div>
 
 [a]:#
 [ig]: https://instagram.com/arav.06
