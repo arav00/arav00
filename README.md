@@ -26,7 +26,6 @@
 <br />
 <br />
 <br />
-<br />
 ### Get in touch
 [<img align="left" alt="mail" width="40px" src="icons/mail.png" />][mail]
 [<img align="left" alt="ig" width="40px" src="icons/ig.png" />][ig]
