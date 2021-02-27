@@ -22,8 +22,8 @@
 <br />
 <br />
 ### Get in touch
-[<img align="left" alt="mail" width="40px" src="icons/mail.png" />][m]
-[<img align="left" alt="ig" width="40px" src="icons/ig.png" />][i]
+[<img align="left" alt="mail" width="40px" src="icons/mail.png" />][mail]
+[<img align="left" alt="ig" width="40px" src="icons/ig.png" />][ig]
 
 <br />
 <br />
@@ -33,6 +33,6 @@
 
 
 [a]:#
-[m]: "https://example.com"
-[i]:https://instagram.com/arav.06
+[ig]: https://instagram.com/arav.06
+[mail]: mailto:aravbudhiraja2@gmail.com
 
