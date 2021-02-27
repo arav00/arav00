@@ -23,8 +23,9 @@
 <br />
 ### Get in touch
 [<img align="left" alt="mail" width="40px" src="icons/mail.png" />][mail]
+**aravbudhiraja2@gmail.com**
 [<img align="left" alt="ig" width="40px" src="icons/ig.png" />][ig]
-
+**arav.06**
 <br />
 <br />
 <br />
