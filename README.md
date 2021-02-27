@@ -22,7 +22,7 @@
 <br />
 <br />
 <br />
-<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav00&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav00&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 <br />
 <br />
 <br />
