@@ -1,6 +1,6 @@
 
 # print("Hello World!")
-## Ethical Hacker, Linux Master, Pythonista
+## Ethical Hacker, Pythonista
 
 👦‣14 year old from India  
 📚‣Currently learning C  
