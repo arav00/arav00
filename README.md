@@ -26,7 +26,12 @@
 <br />
 <br />
 <br />
+### Certs
 
+<img height="150em" src="icons/ejpt.jpg"/>
+<br />
+<br />
+<br />
 ### Get in touch
 
 <a href="mailto:aravbudhiraja2@gmail.com"><img src="icons/mail.png" ></a>
@@ -40,7 +45,6 @@
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=arav00&show_icons=true&hide_border=true" />
 
 ***
-
 [a]:#
  
  
