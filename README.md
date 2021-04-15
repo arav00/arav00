@@ -28,7 +28,7 @@
 <br />
 ### Certs
 
-<img height="150em" src="icons/ejpt.jpg"/>
+<img height="200em" src="icons/ejpt.jpg"/>
 <br />
 <br />
 <br />
