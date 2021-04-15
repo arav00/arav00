@@ -1,6 +1,6 @@
 
 # print("Hello World!")
-## Ethical Hacker, Pythonista
+## I'm Arav Budhiraja, an Ethical Hacker and Pythonista
 
 👦‣14 year old from India  
 📚‣Currently learning C  
