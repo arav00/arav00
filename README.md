@@ -32,6 +32,7 @@
 <br />
 <br />
 <br />
+
 ### Get in touch
 
 <a href="mailto:aravbudhiraja2@gmail.com"><img src="icons/mail.png" ></a>
