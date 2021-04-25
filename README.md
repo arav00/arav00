@@ -18,11 +18,12 @@
 [<img align="left" alt="docker" width="40px" src="icons/docker.svg" />][a]
 [<img align="left" alt="c" width="40px" src="icons/c.svg" />][a]
 [<img align="left" alt="java" width="40px" src="icons/java.svg" />][a]
-<br />
-<br />
-<br />
-<br />
 
+<br />
+<br />
+<br />
+<br />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 <br />
 <br />
 <br />
