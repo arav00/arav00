@@ -6,6 +6,7 @@
 📚‣Currently learning C  
 💻‣2021 Goals: Contribute to Open-Source Projects  
 🍟‣Fun Fact: I'm a Foodie!  
+🌐‣My website: https://arav06.github.io/
 <br />
 ### Skills
 [<img align="left" alt="whitehat" width="40px" src="icons/whitehat.jpg" />][a]
