@@ -32,7 +32,7 @@
 
 ### Certs
 
-<img height="200em" src="icons/ejpt.jpg"/>[a]
+<img height="200em" src="icons/ejpt.jpg"/>
 <br />
 <br />
 <br />
