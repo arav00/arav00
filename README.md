@@ -18,7 +18,7 @@
 [<img align="left" alt="ansible" width="40px" src="icons/ans.png" />][a]
 [<img align="left" alt="docker" width="40px" src="icons/docker.svg" />][a]
 [<img align="left" alt="c" width="40px" src="icons/c.svg" />][a]
-[<img align="left" alt="java" width="40px" src="icons/java.svg" />][a]
+[<img align="left" alt="java" width="40px" src="https://img.icons8.com/plasticine/2x/bash.png" />][a]
 
 <br />
 <br />
