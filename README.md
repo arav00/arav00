@@ -24,7 +24,7 @@
 <br />
 <br />
 <br />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&theme=radical&langs_count=10"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"/>
 
 <br />
 <br />
@@ -47,7 +47,7 @@
 <br />
 
 ### Github Stats
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=arav06&show_icons=true&theme=radical&hide_border=true" />
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=arav06&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ***
 [a]:#
