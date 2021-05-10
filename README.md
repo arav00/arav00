@@ -43,7 +43,6 @@
 
 <br />
 <br />
-<br />
 
 ### Github Stats
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=arav06&show_icons=true&theme=tokyonight&hide_border=true" />
