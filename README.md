@@ -24,14 +24,14 @@
 <br />
 <br />
 <br />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"/>
+<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"/></a>
 
 <br />
 <br />
 
 ### Certs
 
-<img height="200em" src="icons/ejpt.jpg"/>
+<a href="#"><img height="200em" src="icons/ejpt.jpg"/></a>
 <br />
 <br />
 <br />
@@ -45,7 +45,7 @@
 <br />
 
 ### Github Stats
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=arav06&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=arav06&show_icons=true&theme=tokyonight&hide_border=true" /></a>
 
 ***
 [a]:#
