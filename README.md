@@ -38,8 +38,8 @@
 
 ### Get in touch
 
-<a href="mailto:contact.arav06@gmail.com"><img src="icons/mail.png" ></a>
-<a href="https://instagram.com/arav.06"><img src="icons/ig.png" ></a>
+<a href="mailto:contact.arav06@gmail.com" target="_blank"><img src="icons/mail.png" ></a>
+<a href="https://instagram.com/arav.06" target="_blank"><img src="icons/ig.png" ></a>
 
 <br />
 <br />
