@@ -23,7 +23,7 @@
 <br />
 <br />
 <br />
-<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"/></a>
+<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"/></a>
 
 <br />
 <br />
