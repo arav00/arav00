@@ -40,7 +40,7 @@
 
 <a href="mailto:contact.arav06@gmail.com" target="_blank"><img src="icons/mail.png" ></a>
 <a href="https://instagram.com/arav.06" target="_blank"><img src="icons/ig.png" ></a>
-<a href="https://www.fiverr.com/arxvv_" target="_blank"><img src="icons/fiverr.png" ></a>
+<a href="https://www.fiverr.com/arxvv_" target="_blank"><img src="icons/five.png" ></a>
 
 <br />
 <br />
