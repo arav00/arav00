@@ -17,7 +17,7 @@
 [<img align="left" alt="css" width="40px" src="icons/css.svg" />][a]
 [<img align="left" alt="ansible" width="40px" src="icons/ans.png" />][a]
 [<img align="left" alt="docker" width="40px" src="icons/docker.svg" />][a]
-[<img align="left" alt="md" width="40px" src="icons/markdown.png" />][a]
+[<img align="left" alt="md" width="40px" src="icons/markdown2.png" />][a]
 [<img align="left" alt="java" width="40px" src="icons/java.svg" />][a]
 
 <br />
