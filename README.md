@@ -4,6 +4,7 @@
 
 👦‣15 year old from India  
 📚‣Currently learning data science 
+
 💻‣2021 Goals: Contribute to Open-Source Projects  
 🌐‣My Website: https://arav06.github.io/
 
@@ -48,6 +49,7 @@
 <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=arav06&show_icons=true&theme=github_dark&hide_border=true" /></a>
 
 ***
+
 [a]:#
  
  
