@@ -38,10 +38,13 @@
 
 ### Get in touch
 
-<a href="mailto:contact.arav06@gmail.com" target="_blank"><img src="icons/mail.png" ></a>
-<a href="https://instagram.com/arav.06" target="_blank"><img src="icons/ig.png" ></a>
-<a href="https://www.fiverr.com/arxvv_" target="_blank"><img src="icons/five.png" ></a>
+[<img align="left" alt="mail" width="80px" src="icons/mail.png" />][m]
+[<img align="left" alt="ig" width="80px" src="icons/ig.png" />][i]
+[<img align="left" alt="fiverr" width="75px" src="icons/five.png" />][f]
 
+<br />
+<br />
+<br />
 <br />
 <br />
 
@@ -51,6 +54,8 @@
 ***
 
 [a]:#
- 
+[m]:mailto:contact.arav06@gmail.com
+[i]:https://instagram.com/arav.06
+[f]:https://www.fiverr.com/arxvv_
  
  
