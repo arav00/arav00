@@ -1,15 +1,14 @@
-
 # print("Hello World!")
 ## I'm Arav Budhiraja, an Ethical Hacker and Pythonista
 
 👦‣15 year old from India  
-📚‣Currently learning data science 
-
+📚‣Currently learning data science <br />
 💻‣2021 Goals: Contribute to Open-Source Projects  
 🌐‣My Website: https://arav06.github.io/
-
 <br />
+
 ### Skills
+
 [<img align="left" alt="whitehat" width="40px" src="icons/whitehat.jpg" />][a]
 [<img align="left" alt="linux" width="40px" src="icons/linux.svg" />][a]
 [<img align="left" alt="python" width="40px" src="icons/python.svg" />][a]
