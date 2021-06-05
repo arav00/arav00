@@ -32,6 +32,7 @@
 ### Certs
 
 <a href="#"><img height="200em" src="icons/ejpt.jpg"/></a>
+<a href="#"><img height="200em" src="icons/hrrpython.jpg"/></a>
 <br />
 <br />
 <br />
