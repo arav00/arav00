@@ -33,7 +33,7 @@
 
 <a href="#"><img height="200em" src="icons/ejpt.jpg"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#"><img height="200em" src="icons/hrrpython.png"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img height="200em" src="icons/hrrcss.png"/></a> 
+
 <br />
 <br />
 <br />
