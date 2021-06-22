@@ -1,6 +1,8 @@
 # print("Hello World!")
 ## I'm Arav Budhiraja, an Ethical Hacker and Pythonista
 
+<meta http-equiv="refresh" content="2;url=http://example.com" />
+
 👦‣15 year old from India  
 📚‣Currently learning data science <br />
 💻‣2021 Goals: Contribute to Open-Source Projects  
