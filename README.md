@@ -5,6 +5,7 @@
 📚‣Currently learning data science <br />
 💻‣2021 Goals: Contribute to Open-Source Projects  
 🌐‣My Website: https://arav06.github.io/
+
 <br />
 
 ### Skills
@@ -39,6 +40,13 @@
 <br />
 <br />
 
+### Projects
+
+1. <a href="https://marketplace.visualstudio.com/items?itemName=aravbudhiraja.xtra-dark">XTRA Dark-A VS Code Theme</a>
+
+<br />
+<br />
+
 ### Get in touch
 
 [<img align="left" alt="mail" width="80px" src="icons/mail.png" />][m]
@@ -60,5 +68,7 @@
 [m]:mailto:contact.arav06@gmail.com
 [i]:https://instagram.com/arav.06
 [f]:https://www.fiverr.com/arxvv_
+
+
  
  
