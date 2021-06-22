@@ -25,6 +25,7 @@
 <br />
 <br />
 
+<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&show_icons=true&hide_border=true&layout=compact&theme=github_dark&langs_count=10"/></a>
 
 <br />
 <br />
