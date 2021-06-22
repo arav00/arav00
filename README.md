@@ -43,6 +43,7 @@
 ### Projects
 
 1. <a href="https://marketplace.visualstudio.com/items?itemName=aravbudhiraja.xtra-dark">XTRA Dark-A VS Code Theme</a>
+2. <a href="https://github.com/arav06/qilo">Qilo-Control multiple servers securely over SSH</a>
 
 <br />
 <br />
