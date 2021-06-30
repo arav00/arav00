@@ -28,6 +28,14 @@
 
 <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&show_icons=true&hide_border=true&layout=compact&theme=github_dark&langs_count=20"/></a>
 
+### Projects
+
+1. <a href="https://marketplace.visualstudio.com/items?itemName=aravbudhiraja.xtra-dark">XTRA Dark-A VS Code Theme</a>
+2. <a href="https://github.com/arav06/qilo">Qilo-Control multiple servers securely over SSH</a>
+
+<br />
+<br />
+
 <br />
 <br />
 
@@ -37,14 +45,6 @@
 <a href="#"><img height="200em" src="icons/hrrpython.png"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
-<br />
-<br />
-
-### Projects
-
-1. <a href="https://marketplace.visualstudio.com/items?itemName=aravbudhiraja.xtra-dark">XTRA Dark-A VS Code Theme</a>
-2. <a href="https://github.com/arav06/qilo">Qilo-Control multiple servers securely over SSH</a>
-
 <br />
 <br />
 
