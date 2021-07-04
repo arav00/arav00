@@ -52,7 +52,7 @@
 
 [<img align="left" alt="mail" width="80px" src="icons/mail.png" />][m]
 [<img align="left" alt="ig" width="80px" src="icons/ig.png" />][i]
-[<img align="left" alt="fiverr" width="75px" src="icons/five.png" />][f]
+[<img align="left" alt="fiverr" width="75px" src="icons/medium.png" />][b]
 
 <br />
 <br />
@@ -68,8 +68,7 @@
 [a]:#
 [m]:mailto:contact.arav06@gmail.com
 [i]:https://instagram.com/arav.06
-[f]:https://www.fiverr.com/arxvv_
-
+[b]:https://aravbudhiraja06.medium.com
 
  
  
