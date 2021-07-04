@@ -52,7 +52,7 @@
 
 [<img align="left" alt="mail" width="80px" src="icons/mail.png" />][m]
 [<img align="left" alt="ig" width="80px" src="icons/ig.png" />][i]
-[<img align="left" alt="fiverr" width="75px" src="icons/medium.png" />][b]
+[<img align="left" alt="medium" width="80px" src="icons/medium.png"  />][b]
 
 <br />
 <br />
