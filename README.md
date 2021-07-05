@@ -26,17 +26,13 @@
 <br />
 <br />
 
-<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&show_icons=true&hide_border=true&layout=compact&theme=github_dark&langs_count=20"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav06&show_icons=true&hide_border=true&layout=compact&theme=github_dark&langs_count=20" align="left" /></a>
 
-### Projects
-
-1. <a href="https://marketplace.visualstudio.com/items?itemName=aravbudhiraja.xtra-dark">XTRA Dark-A VS Code Theme</a>
-2. <a href="https://github.com/arav06/qilo">Qilo-Control multiple servers securely over SSH</a>
+<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=arav06&bg_color=000000&color=33ccff&line=008ae6&point=d9d9d9&hide_border=true"  /><a>
 
 <br />
 <br />
 
-<br />
 <br />
 
 ### Certs
@@ -57,6 +53,15 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+
+### Check these out
+
+1. <a href="https://marketplace.visualstudio.com/items?itemName=aravbudhiraja.xtra-dark">XTRA Dark-A VS Code Theme</a>
+2. <a href="https://github.com/arav06/qilo">Qilo-Control multiple servers securely over SSH</a>
+3. <a href="https://github.com/arav06/qilo">Lame Pass - A local command line password manager</a>
+
 <br />
 <br />
 
