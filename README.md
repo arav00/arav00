@@ -8,7 +8,7 @@
 
 <br />
 
-### Skills
+## Skills
 
 [<img align="left" alt="whitehat" width="40px" src="icons/whitehat.jpg" />][a]
 [<img align="left" alt="linux" width="40px" src="icons/linux.svg" />][a]
@@ -35,7 +35,7 @@
 
 <br />
 
-### Certs
+## Certs
 
 <a href="#"><img height="200em" src="icons/ejpt.jpg"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#"><img height="200em" src="icons/hrrpython.png"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,7 +44,7 @@
 <br />
 <br />
 
-### Get in touch
+## Get in touch
 
 [<img align="left" alt="mail" width="80px" src="icons/mail.png" />][m]
 [<img align="left" alt="ig" width="80px" src="icons/ig.png" />][i]
@@ -56,17 +56,17 @@
 <br />
 <br />
 
-### Check these out
+## Check these out
 
-1. <a href="https://marketplace.visualstudio.com/items?itemName=aravbudhiraja.xtra-dark">XTRA Dark-A VS Code Theme</a>
-2. <a href="https://github.com/arav06/qilo">Qilo-Control multiple servers securely over SSH</a>
-3. <a href="https://github.com/arav06/qilo">Lame Pass - A local command line password manager</a>
-4. <a href="https://infosecwriteups.com/ejpt-as-a-15-year-old-2419aa241c98">eJPT as a 15 year old</a>
+1. ### <a href="https://marketplace.visualstudio.com/items?itemName=aravbudhiraja.xtra-dark">XTRA Dark - A VS Code Theme</a>
+2. ### <a href="https://github.com/arav06/qilo">Qilo SSH - Control multiple servers securely over SSH</a>
+3. ### <a href="https://github.com/arav06/qilo">Lame Pass - A local command line password manager</a>
+4. ### <a href="https://infosecwriteups.com/ejpt-as-a-15-year-old-2419aa241c98">eJPT as a 15 year old</a>
 
 <br />
 <br />
 
-### Github Stats
+## Github Stats
 <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=arav06&show_icons=true&theme=github_dark&hide_border=true" /></a>
 
 ***
